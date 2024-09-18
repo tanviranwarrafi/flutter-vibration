@@ -1,10 +1,6 @@
 # Vibration Flutter
 
 This project is for learning how to make vibration in Flutter App.
-
-### - Vibration
- 
- - [Package Link](https://github.com/benjamindean/flutter_vibration)
  
 ## Android Permission
  
